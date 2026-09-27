@@ -1,0 +1,11 @@
+{
+  "org": "asimov-platform",
+  "repo": "scoop-bucket",
+  "versions": [
+    {
+      "commit": "2319584757b109d92d2199e8380d457517391374",
+      "tag": "master",
+      "parsed_at": "2026-09-27T19:14:32.539845+00:00"
+    }
+  ]
+}
